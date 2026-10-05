@@ -12,7 +12,7 @@
 
 - [需求文档 HTML 阅读版](docs/review/requirements.html)
 
-从[整体设计 review 入口](docs/project/review.md)开始，建议先看[需求](docs/product/requirements.md)和[角色分工](docs/project/team.md)，再看[课程地图](docs/content/curriculum.md)、[交互](docs/design/experience.md)与[架构](docs/design/architecture.md)。本版为v0.7待review设计，未获用户批准。
+从[整体设计 review 入口](docs/project/review.md)开始，建议先看[需求](docs/product/requirements.md)和[角色分工](docs/project/team.md)，再看[课程地图](docs/content/curriculum.md)、[交互](docs/design/experience.md)与[架构](docs/design/architecture.md)。本版为v0.8待review文档基线，未获用户批准。
 
 ## 项目文档
 

@@ -140,7 +140,7 @@
 | REQ-11/15/16 | [加速器/vGPU/K8s](../content/accelerators-virtualization-k8s.md) | 实际型号、框架、hypervisor、许可及K8s版本支持 |
 | REQ-17 | [车辆Demo/PyTorch/源码](../content/vehicle-demo-pytorch.md) | 原代码/权重/运行说明尚未提供；可独立设计教学样例，不冒充旧Demo |
 | REQ-18 | [文生视频](../content/text-to-video.md) | 代表模型、授权样例、架构与资源依据待核验；静态第一版不要求真实生成 |
-| REQ-09 | [UCS对照](../content/ucs-gpu-comparison.md) | 官方访问被代理403阻止，域名草稿未证明生效 |
+| REQ-09 | [UCS对照](../content/ucs-gpu-comparison.md) | 部分Cisco官方页面已读取成功；具体UCS/GPU支持表仍待核验，见ISS-003 |
 
 认证、GPU历史和车辆入口是可选阅读，不代表从产品范围删除。主站静态版本提供活跃REQ教学呈现，REQ-18/20在独立项目交付；真实GPU性能压测和旧Demo运行复现属于独立验证，不增加必需后端。不能因来源受阻默默删去章节；保留任务与明确阻塞，相关事实核验后验收。
 
@@ -152,7 +152,7 @@
 
 ## 项目拆分决定
 
-用户明确文生视频独立项目，当前位于`/workspace/video-studio`。REQ-18/20保留历史编号，但交付责任与排期转移到独立项目VIDREQ-01/02，主站仅可链接/概念引用，不再承担视频首页或产业专题。主站仅保留转移故事作为追踪依据，无需重复开发。独立GitHub创建与Pages发布已授权，尚未完成。
+用户明确文生视频独立项目，原工作区路径为`/workspace/video-studio`（历史记录）。REQ-18/20保留历史编号，但交付责任与排期转移到独立项目VIDREQ-01/02，主站仅可链接/概念引用，不再承担视频首页或产业专题。主站仅保留转移故事作为追踪依据，无需重复开发。独立GitHub创建与Pages发布已授权，尚未完成。
 
 ## 后续仓库与流程更新
 

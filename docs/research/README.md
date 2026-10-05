@@ -10,7 +10,7 @@
 
 | ID | 文档 | 用户要求 / 范围 | 状态 | 下一步 |
 | --- | --- | --- | --- | --- |
-| RES-01 | [思科AI网络预研](cisco-ai-networking.md) | 思科AI网络特色与课程入选内容 | 已产出，待讨论 | 按CNET候选确定取舍，再映射正式REQ/任务 |
+| RES-01 | [思科AI网络预研](cisco-ai-networking.md) | 思科AI网络特色、Cisco AI POD网络设计专题及课程候选 | 概览已产出；AI POD设计专题待补；课程候选待讨论 | 按CNET候选确定取舍，再映射正式REQ/任务 |
 | RES-02 | [网络知识微调Demo预研](network-knowledge-finetuning.md) | Cisco/华为/中兴离线知识库的RAG与LoRA/QLoRA对照Demo | 初稿，待数据与目标 | 确认格式、小样本、GPU与成功标准后决定独立Demo范围 |
 | RES-03 | [文生视频云本地与产业预研](video-cloud-local-global.md) | Seedance/本地模型、混合部署、地域产业及中东/好莱坞/印度改编 | 初稿，待讨论 | VID-01—06选范围；Seedance/产业事实待核验 |
 

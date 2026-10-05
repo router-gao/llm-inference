@@ -8,7 +8,7 @@
 | 项目负责人 / 主代理 | 排期、依赖、风险、跨文档一致性与交付 | review入口、任务板、决策、阶段报告 | 用户；QA核查证据 | 整合v0.2设计包 |
 | 产品 / product | 需求、教学目标、用户故事、范围与优先级 | requirements.md、audience.md | 用户、QA | 合并全部已确认需求 |
 | 模型内容 / inference | 模型、Agent、RAG、术语与课程脚本 | inference.md、glossary.md、curriculum.md | infra交叉复核、QA | 课程地图与八步酒店脚本 |
-| Infra内容 / infra | 容量、并发、GPU代际、通信、UCS与共享 | infrastructure.md、ucs-gpu-comparison.md | inference、QA | 待官方访问恢复后核验支持清单 |
+| Infra内容 / infra | 容量、并发、GPU代际、通信、UCS与共享 | infrastructure.md、ucs-gpu-comparison.md | inference、QA | 继续核验具体机型/GPU支持清单；部分官方页面已读取成功 |
 | UX与前端 / experience | 页面地图、交互、状态契约、架构与后续实现 | experience.md、architecture.md及前端代码 | 产品、QA、技术内容负责人 | 完整体验与架构设计 |
 | QA与技术编辑 / quality | 来源、术语、公式、交互、可访问性和review检查 | validation.md、审查记录与缺陷表 | 项目负责人，作者修正后复核 | v0.2设计交叉审查 |
 
