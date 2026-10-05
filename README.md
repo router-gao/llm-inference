@@ -4,6 +4,10 @@
 
 第一版是中文静态交互模拟，不执行真实预订、不调用真实模型 API。当前处于文档规划阶段，尚无可运行页面。
 
+## 创意起点
+
+[⚡ Spark Zero｜创意原点](docs/vision/spark-zero.md)：第一轮头脑风暴全景，记录两个项目的初衷、主题、待探索问题与推进约定。
+
 ## 重要文档 review
 
 - [需求文档 HTML 阅读版](docs/review/requirements.html)
